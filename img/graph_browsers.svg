@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="218">
+  <rect width="650" height="218" rx="6" fill="#1a1a2e"/>
+  <text x="140" y="18" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="13" font-weight="600" opacity=".9">Browsers — stringmanolo</text>
+
+  <text x="132" y="42" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Chrome 120</text>
+  <rect x="140" y="30" width="460" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="608" y="42" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">534</text>
+  <text x="132" y="64" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Firefox 121</text>
+  <rect x="140" y="52" width="268.76404494382024" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="416.76404494382024" y="64" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">312</text>
+  <text x="132" y="86" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Safari 17</text>
+  <rect x="140" y="74" width="170.56179775280899" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="318.56179775280896" y="86" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">198</text>
+  <text x="132" y="108" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Edge 120</text>
+  <rect x="140" y="96" width="74.9438202247191" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="222.9438202247191" y="108" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">87</text>
+  <text x="132" y="130" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Googlebot 2.1</text>
+  <rect x="140" y="118" width="37.04119850187266" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="185.04119850187266" y="130" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">43</text>
+  <text x="132" y="152" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Curl 8.2</text>
+  <rect x="140" y="140" width="32.73408239700374" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="180.73408239700373" y="152" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">38</text>
+  <text x="132" y="174" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Brave 1.6</text>
+  <rect x="140" y="162" width="18.95131086142322" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="166.95131086142322" y="174" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">22</text>
+  <text x="132" y="196" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">Unknown 0</text>
+  <rect x="140" y="184" width="11.198501872659175" height="18" rx="3" fill="#e74c3c" opacity=".85"/>
+  <text x="159.19850187265916" y="196" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">13</text>
+</svg>

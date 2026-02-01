@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="174">
+  <rect width="650" height="174" rx="6" fill="#111827"/>
+  <text x="140" y="18" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="13" font-weight="600" opacity=".9">Repos — stringmanolo</text>
+
+  <text x="132" y="42" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">githubtracker</text>
+  <rect x="140" y="30" width="460" height="18" rx="3" fill="#f39c12" opacity=".85"/>
+  <text x="608" y="42" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">384</text>
+  <text x="132" y="64" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">cf-utils</text>
+  <rect x="140" y="52" width="295.88541666666663" height="18" rx="3" fill="#f39c12" opacity=".85"/>
+  <text x="443.88541666666663" y="64" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">247</text>
+  <text x="132" y="86" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">shell-scripts</text>
+  <rect x="140" y="74" width="226.40625" height="18" rx="3" fill="#f39c12" opacity=".85"/>
+  <text x="374.40625" y="86" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">189</text>
+  <text x="132" y="108" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">dotfiles</text>
+  <rect x="140" y="96" width="170.10416666666669" height="18" rx="3" fill="#f39c12" opacity=".85"/>
+  <text x="318.1041666666667" y="108" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">142</text>
+  <text x="132" y="130" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">api-playground</text>
+  <rect x="140" y="118" width="117.39583333333333" height="18" rx="3" fill="#f39c12" opacity=".85"/>
+  <text x="265.3958333333333" y="130" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">98</text>
+  <text x="132" y="152" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">learn-rust</text>
+  <rect x="140" y="140" width="67.08333333333334" height="18" rx="3" fill="#f39c12" opacity=".85"/>
+  <text x="215.08333333333334" y="152" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">56</text>
+</svg>

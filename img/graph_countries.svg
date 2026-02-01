@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="240">
+  <rect width="650" height="240" rx="6" fill="#0f172a"/>
+  <text x="140" y="18" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="13" font-weight="600" opacity=".9">Countries — stringmanolo</text>
+
+  <text x="132" y="42" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">ES</text>
+  <rect x="140" y="30" width="460" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="608" y="42" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">412</text>
+  <text x="132" y="64" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">US</text>
+  <rect x="140" y="52" width="380.7281553398058" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="528.7281553398059" y="64" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">341</text>
+  <text x="132" y="86" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">MX</text>
+  <rect x="140" y="74" width="198.73786407766988" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="346.7378640776699" y="86" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">178</text>
+  <text x="132" y="108" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">DE</text>
+  <rect x="140" y="96" width="99.36893203883494" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="247.36893203883494" y="108" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">89</text>
+  <text x="132" y="130" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">AR</text>
+  <rect x="140" y="118" width="74.80582524271846" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="222.80582524271847" y="130" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">67</text>
+  <text x="132" y="152" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">GB</text>
+  <rect x="140" y="140" width="60.29126213592233" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="208.29126213592232" y="152" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">54</text>
+  <text x="132" y="174" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">FR</text>
+  <rect x="140" y="162" width="48.009708737864074" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="196.00970873786406" y="174" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">43</text>
+  <text x="132" y="196" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">CO</text>
+  <rect x="140" y="184" width="42.42718446601942" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="190.4271844660194" y="196" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">38</text>
+  <text x="132" y="218" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">VE</text>
+  <rect x="140" y="206" width="27.9126213592233" height="18" rx="3" fill="#3498db" opacity=".85"/>
+  <text x="175.9126213592233" y="218" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">25</text>
+</svg>

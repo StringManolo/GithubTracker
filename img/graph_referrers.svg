@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="196">
+  <rect width="650" height="196" rx="6" fill="#1a1a2e"/>
+  <text x="140" y="18" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="13" font-weight="600" opacity=".9">Referrers — stringmanolo</text>
+
+  <text x="132" y="42" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">github.com</text>
+  <rect x="140" y="30" width="460" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="608" y="42" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">623</text>
+  <text x="132" y="64" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">google.com</text>
+  <rect x="140" y="52" width="158.00963081861957" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="306.0096308186196" y="64" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">214</text>
+  <text x="132" y="86" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">direct</text>
+  <rect x="140" y="74" width="139.5505617977528" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="287.55056179775283" y="86" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">189</text>
+  <text x="132" y="108" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">twitter.com</text>
+  <rect x="140" y="96" width="71.62118780096309" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="219.62118780096307" y="108" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">97</text>
+  <text x="132" y="130" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">stackoverflow.com</text>
+  <rect x="140" y="118" width="45.77849117174959" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="193.77849117174958" y="130" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">62</text>
+  <text x="132" y="152" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">reddit.com</text>
+  <rect x="140" y="140" width="30.272873194221507" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="178.27287319422152" y="152" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">41</text>
+  <text x="132" y="174" text-anchor="end" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" opacity=".85">linkedin.com</text>
+  <rect x="140" y="162" width="15.50561797752809" height="18" rx="3" fill="#10b981" opacity=".85"/>
+  <text x="163.5056179775281" y="174" fill="#ccc" font-family="'SF Mono',Consolas,monospace" font-size="11" font-weight="600">21</text>
+</svg>

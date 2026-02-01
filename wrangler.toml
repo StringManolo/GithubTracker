@@ -1,0 +1,17 @@
+name = "github-tracker"
+main = "./src/index.js"
+compatibility_date = "2026-02-01"
+compatibility_flags = ["nodejs_compat"]
+
+
+[[kv_namespaces]]
+binding = "VISITS_KV"
+id = "dde22fa6f2b44943b354c3944b46c06b"
+
+[env.dev]
+  [[env.dev.kv_namespaces]]
+  binding = "VISITS_KV"
+  id = "dde22fa6f2b44943b354c3944b46c06b"
+  preview_id = "" 
+
+#   npx wrangler secret put API_KEY

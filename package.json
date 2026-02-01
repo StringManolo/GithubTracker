@@ -1,0 +1,24 @@
+{
+  "name": "githubtracker",
+  "version": "1.0.0",
+  "description": "Track Views and generate badges and other stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StringManolo/GithubTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/StringManolo/GithubTracker/issues"
+  },
+  "homepage": "https://github.com/StringManolo/GithubTracker#readme",
+  "devDependencies": {
+    "wrangler": "^4.61.1"
+  }
+}
