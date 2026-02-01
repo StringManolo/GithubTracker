@@ -17,7 +17,7 @@ Per-repo badge:
 ![Repo Views](https://github-tracker.stringmanolo.workers.dev/?user=stringmanolo&repo=githubtracker)
 
 ```markdown
-![Repo Views](https://github-tracker.stringmanolo.workers.dev/?user=stringmanolo&repo=githubtracker)
+![Repo Views](https://github-tracker.stringmanolo.workers.dev/?user=stringmanolo&repo=githubtracker&avoidGithubCache=1)
 ```
 
 > ☝️ These badges are **live** — the counter increments every time this README is rendered.
